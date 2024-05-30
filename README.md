@@ -6,8 +6,6 @@ This application's frontend is incomplete. The backend was built using Django an
 
 The frontend is incomplete due to time constraints. While the application is not fully finished, you can still examine the logic and code and test the backend using `postman`.
 
-**Tip:** You can test the backend functionality using Postman if desired.
-
 **Note:** To ensure the Django backend works properly, you need to install the dependencies listed in the `requirements.txt` file. You can do this by running the following command in your project's root directory: `pip install -r requirements.txt`
 
 This will install the necessary packages, including `django-rest-framework` and `django-cors-headers`.
